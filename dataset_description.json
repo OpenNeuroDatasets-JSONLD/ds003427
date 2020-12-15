@@ -5,17 +5,17 @@
         "Alan B Kuurstra",
         "L Martyn Klassen",
         "Ravi S Menon",
-      	"Joseph S Gati"
+        "Joseph S Gati"
     ],
     "BIDSVersion": "1.0.1",
-    "DatasetDOI": "TODO: eventually a DOI for the dataset",
+    "DatasetDOI": "10.18112/openneuro.ds003427.v1.0.0",
     "Funding": [
         "Canadian Institutes of Health Research Foundation Grant #148453",
         "Brain Canada Platform Support Grant",
-      	"Canadian Open Neuroscience Platform Student Scholar Award",
-      	"Canada First Research Excellence Fund to BrainsCAN"
+        "Canadian Open Neuroscience Platform Student Scholar Award",
+        "Canada First Research Excellence Fund to BrainsCAN"
     ],
     "HowToAcknowledge": "To use this data please cite the corresponding manuscript, DOI: 10.1016/j.neuroimage.2020.117631",
-    "License": "http://opendatacommons.org/licenses/pddl/",
+    "License": "CC0",
     "Name": "Effects of Phase Regression on High-Resolution Functional MRI of the Primary Visual Cortex"
 }
